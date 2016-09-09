@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "todo-SPFx",
+    "id": "662c096d-0963-46c1-a7cd-5cafa9ccb405",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "todo-SPFx.spapp"
+  }
+}
